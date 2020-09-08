@@ -1,3 +1,3 @@
 # News Bias Detection Website
 
-https://covid-bias-checker.herokuapp.com/
+https://news-bias-detection.herokuapp.com/index.html
